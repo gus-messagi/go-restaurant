@@ -1,20 +1,12 @@
 {
   "foods": [
     {
-      "image": "Teste",
-      "name": "qwe",
-      "price": "12312",
-      "description": "12312",
+      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food1.png",
+      "name": "Ao Molho",
+      "price": "19,90",
+      "description": "Super descrição deste produto maravilhosamente incrível",
       "id": 1,
-      "available": false
-    },
-    {
-      "image": "123123",
-      "name": "111111",
-      "price": "123123",
-      "description": "12312",
-      "available": true,
-      "id": 3
+      "available": true
     }
   ]
 }
